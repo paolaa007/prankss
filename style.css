@@ -1,0 +1,25 @@
+body {
+  background-color: lightskyblue;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 150%; 
+  font-size: medium;
+  color:purple;
+  font-size: medium large;
+}
+h1 { 
+  font-family: Impact, Haettenschweiler, sans-serif;
+  color:purple;
+  margin-top: 3em;
+  font-size: x-large;
+  }
+
+
+li {
+  font-family: sans-serif;
+  color: purple;
+}
+h2{
+  color:purple;
+}
